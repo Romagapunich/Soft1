@@ -34,12 +34,13 @@ namespace Soft1
             int[][] list = File.ReadAllLines(path)
                    .Select(l => l.Split(' ').Select(i => int.Parse(i)).ToArray())
                    .ToArray();
+
             #endregion
 
             #region Запись в двумерный массив
+            
             int[,] arrayInts = new int[list.Length, list.Length];
-
-
+            
             for (int i = 0; i < list.Length; i++)
             {
                 for (int j = 0; j < list.Length; j++)
@@ -64,8 +65,8 @@ namespace Soft1
                     arrayInts[i, j] = Math.Max(arrayInts[i, j] + arrayInts[i + 1, j], arrayInts[i, j] + arrayInts[i + 1, j + 1]);
                 }
             }
-            Console.WriteLine("Maximum sum: {0}", arrayInts[0, 0]);
 
+            Console.WriteLine("Maximum sum: {0}", arrayInts[0, 0]);
             Console.ReadKey();
 
 
