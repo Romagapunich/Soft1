@@ -1,0 +1,6 @@
+K:\Project C#\ITVDN\Soft1\Soft1\bin\Debug\Soft1.exe
+K:\Project C#\ITVDN\Soft1\Soft1\bin\Debug\Soft1.exe.config
+K:\Project C#\ITVDN\Soft1\Soft1\obj\Debug\Soft1.exe
+K:\Project C#\ITVDN\Soft1\Soft1\obj\Debug\Soft1.pdb
+K:\Project C#\ITVDN\Soft1\Soft1\obj\Debug\Soft1.csprojResolveAssemblyReference.cache
+K:\Project C#\ITVDN\Soft1\Soft1\bin\Debug\Soft1.pdb

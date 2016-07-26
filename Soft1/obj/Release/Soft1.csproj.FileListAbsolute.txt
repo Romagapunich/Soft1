@@ -1,0 +1,5 @@
+K:\Project C#\ITVDN\Soft1\Soft1\bin\Release\Soft1.exe.config
+K:\Project C#\ITVDN\Soft1\Soft1\bin\Release\Soft1.exe
+K:\Project C#\ITVDN\Soft1\Soft1\bin\Release\Soft1.pdb
+K:\Project C#\ITVDN\Soft1\Soft1\obj\Release\Soft1.exe
+K:\Project C#\ITVDN\Soft1\Soft1\obj\Release\Soft1.pdb
